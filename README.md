@@ -1,6 +1,6 @@
 # Welcome 👋
 
-Currently Toying around in the serverless space with:
+Currently Toying around in the JavaScript space with:
 
 TypeScript ⚡ React ⚡ Deno ⚡ Rust ⚡ Next.js
 
